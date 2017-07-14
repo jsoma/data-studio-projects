@@ -4,7 +4,7 @@ Repository for discussion and submission of projects for the [Lede Program](lede
 
 ## Project submission process
 
-1. Create an [issue](https://github.com/jsoma/data-studio-projects/issues) for your pitch [(Example)]((https://github.com/jsoma/data-studio-projects/issues) )
+1. Create an [issue](https://github.com/jsoma/data-studio-projects/issues) for your pitch [(Example)](https://github.com/jsoma/data-studio-projects/issues/1)
 2. Receive and respond to feedback [(Example)](https://github.com/jsoma/data-studio-projects/issues/1#issuecomment-315367706)
 3. Submit a draft of your piece as a comment to your issue, using the [update template](https://github.com/jsoma/data-studio-projects/blob/master/UPDATE_TEMPLATE.md) 
 4. Receive and respond to feedback
