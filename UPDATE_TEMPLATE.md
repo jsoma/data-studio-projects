@@ -1,4 +1,6 @@
-When you submit any updates to your pitch, use this template, filling out each section. Find an example at https://github.com/jsoma/data-studio-projects/issues/1#issuecomment-315374945
+# Project update comment template
+
+When you submit any updates to your pitch, copy and paste the content below into your comment. Fill out each section. Find an example at https://github.com/jsoma/data-studio-projects/issues/1#issuecomment-315374945
 	
     # Update
     	

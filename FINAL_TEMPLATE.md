@@ -1,4 +1,6 @@
-When you submit the final version of your project, use this template, filling out each section. Find an example at https://github.com/jsoma/data-studio-projects/issues/1#issuecomment-315379158
+# Final version comment template
+
+When you submit the final version of your project, paste this into your comment. Fill out each section. Find an example at https://github.com/jsoma/data-studio-projects/issues/1#issuecomment-315379158
 
     # Final
 
