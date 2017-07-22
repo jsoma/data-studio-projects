@@ -2,6 +2,16 @@
 
 Repository for discussion and submission of projects for the [Lede Program](ledeprogram.com)'s Data Studio course. Magic generally happens in [the issues section](https://github.com/jsoma/data-studio-projects/issues).
 
+## Schedule
+
+Your week will look like this:
+
+* **Monday:** New pitches due
+* **Tuesday:** Revisions of **last week's** draft due
+* **Wednesday:** work hard
+* **Thursday:** First draft of new pitches due
+* **Friday:** Final version of **last week's** draft due
+
 ## Project submission process
 
 1. Create an [issue](https://github.com/jsoma/data-studio-projects/issues) for your pitch [(Example)](https://github.com/jsoma/data-studio-projects/issues/1)
@@ -13,7 +23,7 @@ Repository for discussion and submission of projects for the [Lede Program](lede
 7. Submit the final version of your piece on your site and as a comment to your project issue, using the [final template](https://github.com/jsoma/data-studio-projects/blob/master/FINAL_TEMPLATE.md). [(Example)](https://github.com/jsoma/data-studio-projects/issues/1#issuecomment-315379158)
 
 
-### STEP ONE: Pitch (Tuesday)
+### STEP ONE: Pitch (Monday)
 
 To create a pitch, visit the [issues section](https://github.com/jsoma/data-studio-projects/issues) and create a **new issue**. Fill out the pitch form.
 
@@ -21,7 +31,7 @@ The pitch is **not** just "here is a story idea." You should have found several 
 
 After you post your pitch, you will receive **two pieces of feedback** from other students.
 
-### STEP TWO: First draft (Friday)
+### STEP TWO: First draft (Thursday)
 
 Your first draft should be **as close to a publishable piece as possible.** Add it to your issue as a **new comment**. [(Example)](https://github.com/jsoma/data-studio-projects/issues/1#issuecomment-315374945)
 
