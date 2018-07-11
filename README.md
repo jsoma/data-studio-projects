@@ -1,6 +1,6 @@
 # Data Studio Projects
 
-Repository for discussion and submission of projects for the [Lede Program](ledeprogram.com)'s Data Studio course. Magic generally happens in [the issues section](https://github.com/jsoma/data-studio-projects/issues).
+Repository for discussion and submission of projects for the [Lede Program](http://ledeprogram.com)'s Data Studio course. Magic generally happens in [the issues section](https://github.com/jsoma/data-studio-projects/issues).
 
 ## Schedule
 
