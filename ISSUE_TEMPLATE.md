@@ -1,4 +1,4 @@
-Please complete all of the following sections, or a robot will spookily dance around your issue! A completed version of this template can be found at https://github.com/jsoma/data-studio-projects/issues/1
+Please complete all of the following sections, or the ghost of Joseph Pulitzer will spookily dance around your issue! A completed version of this template can be found at https://github.com/jsoma/data-studio-projects/issues/1
 
 # Pitch
 

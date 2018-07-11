@@ -6,11 +6,12 @@ Repository for discussion and submission of projects for the [Lede Program](lede
 
 Your week will look like this:
 
-* **Monday:** New pitches due
-* **Tuesday:** Revisions of **last week's** draft due
-* **Wednesday:** work hard
-* **Thursday:** First draft of new pitches due
-* **Friday:** Final version of **last week's** draft due
+* **Tuesday:** New pitches/tiny drafts due
+* **Friday:** First revision due
+* Next **Tuesday:** Second revision due
+* Next **Friday:** Publish your final version
+
+...I might change it so things aren't due on the same day, but I'm not sure yet.
 
 ## Project submission process
 
@@ -23,7 +24,7 @@ Your week will look like this:
 7. Submit the final version of your piece on your site and as a comment to your project issue, using the [final template](https://github.com/jsoma/data-studio-projects/blob/master/FINAL_TEMPLATE.md). [(Example)](https://github.com/jsoma/data-studio-projects/issues/1#issuecomment-315379158)
 
 
-### STEP ONE: Pitch (Monday)
+### STEP ONE: Pitch (Tuesday)
 
 To create a pitch, visit the [issues section](https://github.com/jsoma/data-studio-projects/issues) and create a **new issue**. Fill out the pitch form.
 
@@ -31,7 +32,7 @@ The pitch is **not** just "here is a story idea." You should have found several 
 
 After you post your pitch, you will receive **two pieces of feedback** from other students.
 
-### STEP TWO: First draft (Thursday)
+### STEP TWO: First draft (Friday)
 
 Your first draft should be **as close to a publishable piece as possible.** Add it to your issue as a **new comment**. [(Example)](https://github.com/jsoma/data-studio-projects/issues/1#issuecomment-315374945)
 
