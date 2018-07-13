@@ -4,6 +4,8 @@ Please complete all of the following sections, or the ghost of Joseph Pulitzer w
 
 ## Summary
 
+Delete this line and summarize your project here (drag and drop images to add them - PDFs won't work, screenshots or png exports are good)
+
 ## Details
 
 **Possible headline(s):** 
@@ -16,15 +18,15 @@ Please complete all of the following sections, or the ghost of Joseph Pulitzer w
 
 ## Work so far
 
+Delete this line and explain the work you've done so far (drag and drop images)
+
 ## Checklist
 
 This checklist must be completed before you submit your draft.
 
 - [ ] I have already spent time with my data set, opening it, exploring it, etc
 - [ ] I have created a "DIARY.md" file to save links and list all of the terrible, no good problems I come across
-- [ ] My issue issue has `[Project]` in the title
 - [ ] My issue links to my data set(s)
 - [ ] My issue links to my code repository
 - [ ] My issue explains what I'd like to explore in the data set
 - [ ] My issue includes images - either inspiration or what I've done so far
-- [ ] I have received two comments of peer feedback on my pitch issue
